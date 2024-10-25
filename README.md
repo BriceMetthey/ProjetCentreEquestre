@@ -8,7 +8,16 @@ _Note : Projet à destination des Terminales NSI_
 Instructions d'installation
 -----------
 
-1) Créer un environnement virtuel sur votre PC
+0) Prérequis
+
+Le système d'exploitation à un répertoire de base : `C:\Projets`.
+Lancer une invite de commandes.
+Lancer les commandes suivantes :
+`cd C:\`
+`cd Projets`
+
+
+2) Créer un environnement virtuel sur votre PC
 
 Un environnement virtuel permet de créer un groupe indépendant de bibliothèques Python, un pour chaque projet. Les packets installés pour un projet n'affecteront pas d'autres projets.
 
