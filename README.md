@@ -14,8 +14,11 @@ Un environnement virtuel permet de créer un groupe indépendant de bibliothèqu
 
 ``
 mkdir monProjectCentreEquestre
+
 cd monProjectCentreEquestre
-py -3 -m venv env_ProjetCentreEquestre``
+
+py -3 -m venv env_ProjetCentreEquestre
+``
 
 Execution
 -----------
