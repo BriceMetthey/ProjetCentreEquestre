@@ -1,4 +1,4 @@
-Le projet Centre Equestre
+Le projet Centre Equestre :horse:
 =======
 
 Projet à destination des Terminales NSI
