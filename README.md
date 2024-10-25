@@ -18,6 +18,13 @@ Un environnement virtuel permet de créer un groupe indépendant de bibliothèqu
 
 `py -3 -m venv env_ProjetCentreEquestre`
 
+2) Activation de l'environnement
+
+`env_ProjetCentreEquestre\Scripts\activate`
+ 
+3) Installation de Flask
+
+`pip install Flask`
 
 
 Execution
