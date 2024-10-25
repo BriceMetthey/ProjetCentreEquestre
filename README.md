@@ -12,13 +12,13 @@ Instructions d'installation
 
 Un environnement virtuel permet de créer un groupe indépendant de bibliothèques Python, un pour chaque projet. Les packets installés pour un projet n'affecteront pas d'autres projets.
 
-``
-mkdir monProjectCentreEquestre
+
+``mkdir monProjectCentreEquestre
 
 cd monProjectCentreEquestre
 
-py -3 -m venv env_ProjetCentreEquestre
-``
+py -3 -m venv env_ProjetCentreEquestre``
+
 
 Execution
 -----------
