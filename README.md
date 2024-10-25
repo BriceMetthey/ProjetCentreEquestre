@@ -33,7 +33,7 @@ Un environnement virtuel permet de créer un groupe indépendant de bibliothèqu
 
 2) Activation de l'environnement
 
-`env_ProjetCentreEquestre\Scripts\activate`
+`C:\Projets\monProjectCentreEquestre\env_ProjetCentreEquestre\Scripts\activate.bat`
  
 3) Installation de Flask
 
