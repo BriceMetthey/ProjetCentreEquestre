@@ -11,9 +11,13 @@ Instructions d'installation
 0) Prérequis
 
 Le système d'exploitation à un répertoire de base : `C:\Projets`.
+
 Lancer une invite de commandes.
+
 Lancer les commandes suivantes :
+
 `cd C:\`
+
 `cd Projets`
 
 
