@@ -45,7 +45,7 @@ On obtient alors le prompt suivant :
 
 4) Mise en place de la base de données
 
-Aller sur https://www.sqlite.org/download.html  [https://www.sqlite.org/download.html](https://www.sqlite.org/download.html)
+Aller sur : [https://www.sqlite.org/download.html](https://www.sqlite.org/download.html)
 
 
 Execution
