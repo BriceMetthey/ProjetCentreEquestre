@@ -46,8 +46,14 @@ On obtient alors le prompt suivant :
 4) Mise en place de la base de données
 
 Aller sur : [https://www.sqlite.org/download.html](https://www.sqlite.org/download.html)
+
 Aller dans la sous-section : Precompiled Binaries for Windows
+
 Télécharger le fichier sqlite-tools-win-x64-<version>.zip
+
+C'est un ensemble d'outils en ligne de commande pour la gestion des fichiers de base de données SQLite.
+
+Le fichier est compressé. Donc le décompresser et le placer par exemple dans : `C:\Applis`
 
 
 Execution
