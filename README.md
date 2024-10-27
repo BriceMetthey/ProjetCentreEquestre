@@ -8,7 +8,7 @@ _Note : Projet à destination des Terminales NSI_
 Documentation de référence
 -----------
 
-- [x] [sqlite3](https://docs.python.org/3/library/sqlite3.html)
+- [x] [sqlite3 avec Python](https://docs.python.org/3/library/sqlite3.html)
 
 
 
