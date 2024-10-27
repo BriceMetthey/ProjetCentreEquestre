@@ -68,6 +68,7 @@ C:\Applis\Sqlite
 Execution
 -----------
 
+Execution du serveur web :   `flask --app app run --debug`
 
 Procédure de sauvegarde des données
 -----------
