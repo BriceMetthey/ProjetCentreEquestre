@@ -55,6 +55,14 @@ C'est un ensemble d'outils en ligne de commande pour la gestion des fichiers de 
 
 Le fichier est compressé. Donc le décompresser et le placer par exemple dans : `C:\Applis`
 
+Ce qui permet d'avoir l'arborescence suivante :
+
+`C:\Applis\Sqlite`
+` |_sqldiff.exe`
+` |_sqlite3.exe`
+` |_sqlite3_analyzer.exe`
+` |_sqlite3_rsync.exe`
+
 
 Execution
 -----------
