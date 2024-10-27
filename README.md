@@ -57,15 +57,13 @@ Le fichier est compressé. Donc le décompresser et le placer par exemple dans :
 
 Ce qui permet d'avoir l'arborescence suivante :
 
-``C:\Applis\Sqlite`
-`|_sqldiff.exe```
-
-` |_sqlite3.exe`
-
-` |_sqlite3_analyzer.exe`
-
-` |_sqlite3_rsync.exe`
-
+```txt
+C:\Applis\Sqlite`
+|_sqldiff.exe
+|_sqlite3.exe
+|_sqlite3_analyzer.exe
+|_sqlite3_rsync.exe
+```
 
 Execution
 -----------
