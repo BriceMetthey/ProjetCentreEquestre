@@ -50,6 +50,7 @@ On obtient alors le prompt suivant :
 3) Installation de Flask
 
 `pip install Flask`
+`pip install flask-login`
 
 4) Mise en place de la base de données
 
