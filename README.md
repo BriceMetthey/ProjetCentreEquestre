@@ -5,6 +5,13 @@ _Note : Projet à destination des Terminales NSI_
 
 :warning: :construction: Le projet est en construction. **Il n'est pas utilisable en l'état.** 
 
+Documentation de référence
+-----------
+
+- [x] [sqlite3](https://docs.python.org/3/library/sqlite3.html)
+
+
+
 Instructions d'installation
 -----------
 
