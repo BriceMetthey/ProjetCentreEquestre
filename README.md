@@ -10,6 +10,7 @@ Documentation de référence
 
 - [x] [sqlite3 avec Python](https://docs.python.org/3/library/sqlite3.html)
 - [x] https://flask-login.readthedocs.io/en/latest/
+- [x] https://sqlitebrowser.org
 
 
 
