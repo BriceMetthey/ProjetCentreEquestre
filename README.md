@@ -33,19 +33,19 @@ Lancer les commandes suivantes :
 
 Un environnement virtuel permet de créer un groupe indépendant de bibliothèques Python, un pour chaque projet. Les packets installés pour un projet n'affecteront pas d'autres projets.
 
-`mkdir monProjectCentreEquestre`
+`mkdir ProjectCentreEquestre`
 
-`cd monProjectCentreEquestre`
+`cd ProjectCentreEquestre`
 
 `py -3 -m venv env_ProjetCentreEquestre`
 
 2) Activation de l'environnement
 
-`C:\Projets\monProjectCentreEquestre\env_ProjetCentreEquestre\Scripts\activate.bat`
+`C:\Projets\ProjectCentreEquestre\env_ProjetCentreEquestre\Scripts\activate.bat`
 
 On obtient alors le prompt suivant :
 
-`(env_ProjetCentreEquestre) C:\Projets\monProjectCentreEquestre>`
+`(env_ProjetCentreEquestre) C:\Projets\ProjectCentreEquestre>`
  
 3) Installation de Flask
 
