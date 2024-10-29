@@ -103,7 +103,7 @@ Executer les commandes SQL du fichier `schema.sql` :
 
 `.exit`
 
-3) Execution du serveur web
+###  Execution du serveur web
 
 `flask --app app run --debug`
 
