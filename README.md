@@ -5,16 +5,18 @@ _Note : Projet à destination des Terminales NSI_
 
 :warning: :construction: Le projet est en construction. **Il n'est pas utilisable en l'état.** 
 
-Documentation de référence
+Documentation de référence :notebook:
 -----------
+- [x] [Le framework Flask](https://flask.palletsprojects.com/en/stable)
+- [x] [La base de données sqlite](https://www.sqlite.org)
+- [x] [Usage de sqlite3 avec Python](https://docs.python.org/3/library/sqlite3.html)
+- [x] [Le module d'authentification Flask](https://flask-login.readthedocs.io/en/latest)
+- [x] [Outils en ligne de commande pour la manipulation de la base de données](https://www.sqlite.org/cli.html)
+- [x] [Outils graphique pour la manipulation de la base de données (sqlitebrowser) ](https://sqlitebrowser.org)
 
-- [x] [sqlite3 avec Python](https://docs.python.org/3/library/sqlite3.html)
-- [x] https://flask-login.readthedocs.io/en/latest/
-- [x] https://sqlitebrowser.org
 
 
-
-Instructions d'installation
+Instructions d'installation :computer:
 -----------
 
 0) Prérequis
@@ -75,7 +77,7 @@ C:\Applis\Sqlite
 |_sqlite3_rsync.exe
 ```
 
-Execution
+Execution :bicyclist:
 -----------
 
 1) Création de la base de données
@@ -104,7 +106,7 @@ Executer les commandes SQL du fichier `schema.sql` :
 
 `flask --app app run --debug`
 
-Procédure de sauvegarde des données
+Procédure de sauvegarde des données :floppy_disk:
 -----------
 La commande .dump dans SQLite permet de prendre un cliché de votre base de données. C'est extrêmement utile pour sauvegarder vos données.
 
