@@ -89,7 +89,7 @@ Cas d'usage :
 - [x] Première utilisation
 - [x] Réinitialisation complète de la base de données
 
-`cd C:\Projets\ProjectCentreEquestre\bdd`
+`cd C:\Projets\ProjetCentreEquestre\bdd`
 
 Ouvrez l'interface de ligne de commande SQLite :
 
@@ -107,9 +107,9 @@ Executer les commandes SQL du fichier `schema.sql` :
 
 ###  Execution du serveur web
 
-`cd C:\Projets\ProjectCentreEquestre`
+`cd C:\Projets\ProjetCentreEquestre`
 
-`C:\Projets\ProjectCentreEquestre\env_ProjetCentreEquestre\Scripts\activate.bat`
+`C:\Projets\ProjetCentreEquestre\env_ProjetCentreEquestre\Scripts\activate.bat`
 
 `flask --app app run --debug`
 
@@ -117,7 +117,7 @@ Executer les commandes SQL du fichier `schema.sql` :
 -----------
 La commande .dump dans SQLite permet de prendre un cliché de votre base de données.
 
-`cd C:\Projets\ProjectCentreEquestre\bdd`
+`cd C:\Projets\ProjetCentreEquestre\bdd`
 
 `C:\Applis\Sqlite\sqlite3.exe`
 
