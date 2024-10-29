@@ -19,7 +19,7 @@ _Note : Projet à destination des Terminales NSI_
 :computer: Instructions d'installation 
 -----------
 
-0) Prérequis
+### Prérequis
 
 Le système d'exploitation à un répertoire de base : `C:\Projets`.
 
@@ -32,7 +32,7 @@ Lancer les commandes suivantes :
 `cd Projets`
 
 
-2) Créer un environnement virtuel sur votre PC
+### Créer un environnement virtuel sur votre PC
 
 Un environnement virtuel permet de créer un groupe indépendant de bibliothèques Python, un pour chaque projet. Les packets installés pour un projet n'affecteront pas d'autres projets.
 
@@ -50,12 +50,13 @@ On obtient alors le prompt suivant :
 
 `(env_ProjetCentreEquestre) C:\Projets\ProjectCentreEquestre>`
  
-3) Installation de Flask
+### Installation de Flask
 
 `pip install Flask`
+
 `pip install flask-login`
 
-4) Installation de la base de données
+### Installation de la base de données
 
 Aller sur : [https://www.sqlite.org/download.html](https://www.sqlite.org/download.html)
 
@@ -80,11 +81,11 @@ C:\Applis\Sqlite
 :bicyclist: Execution 
 -----------
 
-1) Création de la base de données
- _Si la base de données n'existe pas :_
+### Création de la base de données
+ 
 Cas d'usage :
 - [x] Première utilisation
-- [x] Réinitialisation
+- [x] Réinitialisation complète de la base de données
 
 `cd C:\Projets\ProjectCentreEquestre\bdd`
 
