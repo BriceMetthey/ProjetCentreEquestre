@@ -3,7 +3,7 @@ Le projet Centre Equestre :horse:
 
 _Note : Projet à destination des Terminales NSI_
 
-:warning: :construction: Le projet est en construction. **Il n'est pas utilisable en l'état.** 
+:warning: :construction: Le projet est en construction et soumis à d'importantes modifications. :construction: :warning:
 
 :notebook: Documentation de référence 
 -----------
@@ -40,7 +40,7 @@ Executer les lignes de commandes suivantes :
 
 `py -3 -m venv env_ProjetCentreEquestre`
 
-2) Activation de l'environnement
+Activation de l'environnement :
 
 `C:\Projets\ProjectCentreEquestre\env_ProjetCentreEquestre\Scripts\activate.bat`
 
