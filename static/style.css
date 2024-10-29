@@ -1,0 +1,226 @@
+/* Style de base pour l'agencement */
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f9f6f1; /* Fond blanc cassé */
+	color: #333;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-direction: column;
+}
+.container {
+	display: flex;
+	flex: 1;
+	min-height: 80vh;
+}
+.sidebar {
+	width: 20%;
+	padding: 20px;
+	background-color: #f2f2f2;
+}
+.content {
+	flex: 1;
+	padding: 20px;
+	background-color: #fff;
+	text-align: justify; /* Justification du texte */
+}
+footer {
+	text-align: center;
+	padding: 10px;
+	background-color: #333;
+	color: white;
+	margin-top: 10px;
+}
+
+
+/* Style de la barre de navigation */
+nav {
+	background-color: #004d25; /* Vert inspiré Aston Martin */
+	color: white;
+	padding: 1rem;
+	display: flex;
+	align-items: center;
+}
+
+ /* Liste de navigation */
+nav ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: flex;
+}
+
+/* Éléments de la navigation */
+nav ul li {
+	margin-right: 20px;
+}
+
+/* Style des liens */
+nav ul li a {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+/* Effet de survol */
+nav ul li a:hover {
+	text-decoration: underline;
+}
+
+/* Logo */
+.logo {
+	height: 50px; /* Ajuste la taille du logo */
+	margin-right: 20px;
+}
+
+ /* Centrer le formulaire */
+.login-container {
+	max-width: 400px;
+	margin: 0 auto;
+	padding: 2rem;
+	background-color: #f7f7f7;
+	border-radius: 8px;
+	box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+	text-align: center;
+	color: #333;
+}
+
+/* Style des labels et des champs d'entrée */
+.form-group {
+	margin-bottom: 15px;
+}
+label {
+	display: block;
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+input, select {
+	width: 100%;
+	padding: 8px;
+	box-sizing: border-box;
+}
+
+input[type="text"],
+input[type="password"] {
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	font-size: 16px;
+}
+
+/* Style du bouton type submit */
+button {
+	width: 100%;
+	padding: 10px;
+	font-size: 16px;
+	background-color: #004d25; 
+	color: white;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #006b33;
+}
+
+
+/* Style de la barre de navigation */
+.navbar {
+	background-color: #004d25; /* Vert type Aston Martin */
+	padding: 1rem 2rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+/* Liste de navigation à gauche */
+.nav-links {
+	list-style: none;
+	display: flex;
+	gap: 1.5rem;
+	margin: 0;
+	padding: 0;
+}
+
+.nav-links li a {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 1rem;
+}
+
+.nav-links li a:hover {
+	color: #e0e0e0;
+}
+
+/* Bouton de déconnexion à droite */
+.logout {
+	list-style: none;
+	margin: 0;
+	margin-left: auto; /* Repousse vers la droite */
+}
+
+.logout a {
+	display: flex;
+	align-items: center;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.logout-icon {
+	margin-left: 0.5rem;
+	font-size: 1.2rem;
+}
+
+.logout a:hover {
+	color: #e0e0e0;
+}
+
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 20px;
+}
+th, td {
+	border: 1px solid #ddd;
+	padding: 8px;
+	text-align: left;
+}
+th {
+	background-color: #f2f2f2;
+}
+.alert {
+	padding: 10px;
+	margin-bottom: 20px;
+}
+.alert.success {
+	background-color: #d4edda;
+	color: #155724;
+}
+.alert.error {
+	background-color: #f8d7da;
+	color: #721c24;
+}
+
+.btn {
+	padding: 8px 12px;
+	cursor: pointer;
+	border: none;
+	color: white;
+	font-size: 14px;
+	display: inline-block; /* Garde le bouton à la taille du contenu */
+}
+.btn-edit {
+	background-color: orange;
+}
+.btn-delete {
+	background-color: red;
+}
+
+
