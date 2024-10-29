@@ -80,6 +80,9 @@ Execution
 
 1) Création de la base de données
  _Si la base de données n'existe pas :_
+Cas d'usage :
+- [x] Première utilisation
+- [x] Réinitialisation
 
 `cd C:\Projets\ProjectCentreEquestre\bdd`
 
