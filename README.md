@@ -22,8 +22,8 @@ _Note : Projet à destination des Terminales NSI_
 ### Prérequis
 
 Le système d'exploitation contient deux répertoires de base :
-- `C:\Projets` _code source des projets_
-- `C:\Applis`  _exécutables des applications tièrces (base de données etc...)_
+- `C:\Projets` _Codes sources des projets._
+- `C:\Applis`  _Exécutables des applications tièrces (base de données etc...)._
 
 ### Récupération du code source
 
