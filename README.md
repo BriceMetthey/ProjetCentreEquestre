@@ -50,7 +50,7 @@ L'execution de la ligne ci-dessous peut prendre du temps ... :watch:
 
 - On obtient alors le prompt suivant :
 
-`(env_ProjetCentreEquestre) C:\Projets\ProjectCentreEquestre>`
+`(env_ProjetCentreEquestre) C:\Projets\ProjetCentreEquestre>`
  
 ### Installation de Flask
 
