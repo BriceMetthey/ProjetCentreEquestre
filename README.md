@@ -21,24 +21,22 @@ _Note : Projet à destination des Terminales NSI_
 
 ### Prérequis
 
-Le système d'exploitation à un répertoire de base : `C:\Projets`.
+Le système d'exploitation a un répertoire de base : `C:\Projets`.
 
-Lancer une invite de commandes.
+### Récupération du code source
 
-Lancer les commandes suivantes :
-
-`cd C:\`
-
-`cd Projets`
-
+- Télécharger le code source du projet via le bouton Code -> Download ZIP
+- Décompresser le projet
+- Couper/coller le sous répertoire du projet ProjetCentreEquestre-main dans `C:\Projets`.
+- Renommer le répertoire en `ProjetCentreEquestre`
 
 ### Créer un environnement virtuel sur votre PC
 
 Un environnement virtuel permet de créer un groupe indépendant de bibliothèques Python, un pour chaque projet. Les packets installés pour un projet n'affecteront pas d'autres projets.
 
-`mkdir ProjectCentreEquestre`
+Executer les lignes de commandes suivantes :
 
-`cd ProjectCentreEquestre`
+`cd C:\Projets\ProjetCentreEquestre`
 
 `py -3 -m venv env_ProjetCentreEquestre`
 
@@ -62,7 +60,7 @@ Aller sur : [https://www.sqlite.org/download.html](https://www.sqlite.org/downlo
 
 Aller dans la sous-section : Precompiled Binaries for Windows
 
-Télécharger le fichier sqlite-tools-win-x64-<version>.zip
+Télécharger le fichier `sqlite-tools-win-x64-<version>.zip`
 
 C'est un ensemble d'outils en ligne de commande pour la gestion des fichiers de base de données SQLite.
 
