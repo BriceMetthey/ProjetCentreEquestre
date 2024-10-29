@@ -103,3 +103,15 @@ Executer les commandes SQL du fichier `schema.sql` :
 
 Procédure de sauvegarde des données
 -----------
+La commande .dump dans SQLite permet de prendre un cliché de votre base de données. C'est extrêmement utile pour sauvegarder vos données.
+
+`cd C:\Projets\ProjectCentreEquestre\bdd`
+
+`C:\Applis\Sqlite\sqlite3.exe`
+
+```txt
+.open centreEquestre.db
+.output backup.sql
+.dump
+.output stdout
+```
