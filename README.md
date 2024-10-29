@@ -105,6 +105,10 @@ Executer les commandes SQL du fichier `schema.sql` :
 
 ###  Execution du serveur web
 
+`cd C:\Projets\ProjectCentreEquestre`
+
+`C:\Projets\ProjectCentreEquestre\env_ProjetCentreEquestre\Scripts\activate.bat`
+
 `flask --app app run --debug`
 
 :floppy_disk: Procédure de sauvegarde des données 
