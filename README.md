@@ -44,7 +44,7 @@ L'execution de la ligne ci-dessous peut prendre du temps ... :watch:
 
 - Activation de l'environnement :
 
-`C:\Projets\ProjectCentreEquestre\env_ProjetCentreEquestre\Scripts\activate.bat`
+`C:\Projets\ProjetCentreEquestre\env_ProjetCentreEquestre\Scripts\activate.bat`
 
 - On obtient alors le prompt suivant :
 
