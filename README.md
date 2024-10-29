@@ -34,17 +34,19 @@ Le système d'exploitation a un répertoire de base : `C:\Projets`.
 
 Un environnement virtuel permet de créer un groupe indépendant de bibliothèques Python, un pour chaque projet. Les packets installés pour un projet n'affecteront pas d'autres projets.
 
-Executer les lignes de commandes suivantes :
+- Executer les lignes de commandes suivantes :
 
 `cd C:\Projets\ProjetCentreEquestre`
 
+L'execution de la ligne ci-dessous peut prendre du temps ... :watch:
+
 `py -3 -m venv env_ProjetCentreEquestre`
 
-Activation de l'environnement :
+- Activation de l'environnement :
 
 `C:\Projets\ProjectCentreEquestre\env_ProjetCentreEquestre\Scripts\activate.bat`
 
-On obtient alors le prompt suivant :
+- On obtient alors le prompt suivant :
 
 `(env_ProjetCentreEquestre) C:\Projets\ProjectCentreEquestre>`
  
