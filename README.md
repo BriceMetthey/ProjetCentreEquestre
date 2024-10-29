@@ -53,7 +53,7 @@ On obtient alors le prompt suivant :
 `pip install Flask`
 `pip install flask-login`
 
-4) Mise en place de la base de données
+4) Installation de la base de données
 
 Aller sur : [https://www.sqlite.org/download.html](https://www.sqlite.org/download.html)
 
@@ -78,7 +78,28 @@ C:\Applis\Sqlite
 Execution
 -----------
 
-Execution du serveur web :   `flask --app app run --debug`
+1) Création de la base de données
+ _Si la base de données n'existe pas :_
+
+`cd C:\Projets\ProjectCentreEquestre\bdd`
+
+Ouvrez l'interface de ligne de commande SQLite :
+
+`C:\Applis\Sqlite\sqlite3.exe`
+
+Utilisez la commande .open pour créer et ouvrir une nouvelle base de données :
+
+`.open centreEquestre.db`
+
+Executer les commandes SQL du fichier `schema.sql` :
+
+`.read schema.sql`
+
+`.exit`
+
+3) Execution du serveur web
+
+`flask --app app run --debug`
 
 Procédure de sauvegarde des données
 -----------
