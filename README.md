@@ -5,7 +5,7 @@ _Note : Projet à destination des Terminales NSI_
 
 :warning: :construction: Le projet est en construction. **Il n'est pas utilisable en l'état.** 
 
-Documentation de référence :notebook:
+:notebook: Documentation de référence 
 -----------
 - [x] [Le framework Flask](https://flask.palletsprojects.com/en/stable)
 - [x] [La base de données sqlite](https://www.sqlite.org)
@@ -16,7 +16,7 @@ Documentation de référence :notebook:
 
 
 
-Instructions d'installation :computer:
+:computer: Instructions d'installation 
 -----------
 
 0) Prérequis
@@ -77,7 +77,7 @@ C:\Applis\Sqlite
 |_sqlite3_rsync.exe
 ```
 
-Execution :bicyclist:
+:bicyclist: Execution 
 -----------
 
 1) Création de la base de données
@@ -106,9 +106,9 @@ Executer les commandes SQL du fichier `schema.sql` :
 
 `flask --app app run --debug`
 
-Procédure de sauvegarde des données :floppy_disk:
+:floppy_disk: Procédure de sauvegarde des données 
 -----------
-La commande .dump dans SQLite permet de prendre un cliché de votre base de données. C'est extrêmement utile pour sauvegarder vos données.
+La commande .dump dans SQLite permet de prendre un cliché de votre base de données.
 
 `cd C:\Projets\ProjectCentreEquestre\bdd`
 
