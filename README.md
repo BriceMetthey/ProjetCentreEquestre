@@ -1,8 +1,6 @@
 Le projet Centre Equestre :horse:
 =======
 
-_Note : Projet à destination des Terminales NSI_
-
 :warning: :construction: Le projet est en construction et soumis à d'importantes modifications. :construction: :warning:
 
 :notebook: Documentation de référence 
