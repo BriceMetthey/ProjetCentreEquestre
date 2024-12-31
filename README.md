@@ -48,9 +48,9 @@ Le projet Centre Equestre :horse:
 -----------
 La commande .dump dans SQLite permet de prendre un cliché de votre base de données.
 
-`cd C:\Projets\ProjetCentreEquestre\bdd`
+`cd D:\Projets\ProjetCentreEquestre\bdd`
 
-`C:\Applis\Sqlite\sqlite3.exe`
+`D:\Applis\Sqlite\sqlite3.exe`
 
 ```txt
 .open centreEquestre.db
